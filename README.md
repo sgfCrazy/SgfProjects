@@ -1,2 +1,2 @@
 # SgfProjects
-联系建立github仓库
+练习建立github仓库
